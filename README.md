@@ -2,7 +2,7 @@
 
 ![](coloredcubes.png)
 
-Order the cube from lightest to darkest! Challenging for all! [Download on the iOS app store](https://apps.apple.com/us/app/colored-cubes/id1448642514)
+Order the cube from lightest to darkest! Challenging for all! [Download on the iOS app store!](https://apps.apple.com/us/app/colored-cubes/id1448642514)
 
 
 ## WHAT IS IT
