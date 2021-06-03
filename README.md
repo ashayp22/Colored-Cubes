@@ -1,6 +1,6 @@
 # Colored-Cubes
 
-![](coloredcubes.png)
+![](coloredcubes.jpg)
 
 Order the cube from lightest to darkest! Challenging for all! [Download on the iOS app store!](https://apps.apple.com/us/app/colored-cubes/id1448642514)
 
