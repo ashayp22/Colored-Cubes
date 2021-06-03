@@ -33,6 +33,6 @@ To run the game locally, download this project and run it in [Unity](https://uni
 
 ## CONCEPTS
 
-- Sorting Algorithms
+- Sorting Algorithms (Insertion, Selection, Merge)
 - 3D Rotation
 
